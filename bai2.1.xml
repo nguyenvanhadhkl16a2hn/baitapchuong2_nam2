@@ -1,0 +1,15 @@
+<company>
+    <director>
+        <name> Nguyễn Văn Hà</name>
+        <address> đường Lĩnh Nam, thành phố HN</address>
+        <phone>0123456789</phone>
+        <tax_id>ABC123456</tax_id>
+
+    </director>
+    <director>
+        <name>Trần Thị B</name>
+        <address>456 Đường Minh Khai, Thành phố HN</address>
+        <phone>0987-654-321</phone>
+        <tax_id>XYZ789012</tax_id>
+    </director>
+</company>

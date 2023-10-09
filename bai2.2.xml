@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <director>
+        <ma_sv> 22174600018</ma_sv>
+        <ten_sv> Nguyễn Văn Hà</ten_sv>
+        <nam_Sinh>2004</nam_Sinh>
+        <class>DHKL16A2HN</class>
+        <gioi_tinh>NAM</gioi_tinh>
+    </director>
+    <director>
+        <ma_sv> 22174600018</ma_sv>
+        <ten_sv> Nguyễn Văn Hà</ten_sv>
+        <nam_Sinh>2004</nam_Sinh>
+        <class>DHKL16A2HN</class>
+        <gioi_tinh>NAM</gioi_tinh>
+    </director>
+</company>
